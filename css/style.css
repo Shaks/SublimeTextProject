@@ -1,0 +1,18 @@
+.body{
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+.box {
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-ms-transition: all 1s;
+	-o-transition: all 1s;
+	transition: all 1s;
+}
+
+.abc {
+	padding: 30px;
+	margin:50px
+}
